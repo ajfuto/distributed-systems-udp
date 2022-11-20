@@ -1,5 +1,5 @@
 # OSTEP Chapter 48 Homework Question 3
-Skeleton code obtained from the (OSTEP-code)[https://github.com/remzi-arpacidusseau/ostep-code] repository.
+Skeleton code obtained from the [OSTEP-code](https://github.com/remzi-arpacidusseau/ostep-code) repository.
 
 ## Distributed Systems: Introduction
 
